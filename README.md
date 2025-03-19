@@ -18,15 +18,15 @@
 
 - 🎓 I’m currently Studying Computer Science Engineering Degree at <a href="https://www.uma.es" target="blank">Universidad de Málaga</a>
 
-- 🌱 I’m also currently working on many personal projects using Java
+- <p>🌐 I'm currently working on multiple personal projects focused on <strong>networking and security</strong>, leveraging <strong>Java</strong> and <strong>Python</strong> for automation, analysis, and threat simulation.</p>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning 
+- 🛡️ I’m currently specializing in Offensive Security and Red Team operations, focusing on advanced attack strategies, adversary simulation, and security assessments.
 
-- 📝 
+- 📝 Feel free to reach out—I'm always open to connecting!
 
-- 💬 Ask me about **Related**
+- 💬 Ask me about **Related Computer Science**
 
 - 📫 How to reach me **carrascodelgado.javier@hotmail.com**
 
