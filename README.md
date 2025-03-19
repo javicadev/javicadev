@@ -20,8 +20,6 @@
 
 - <p>🌐 I'm currently working on multiple personal projects focused on <strong>networking and security</strong>, leveraging <strong>Java</strong> and <strong>Python</strong> for automation, analysis, and threat simulation.</p>
 
-- 🤝 I’m available for freelancing.
-
 - 🛡️ I’m currently specializing in Offensive Security and Red Team operations, focusing on advanced attack strategies, adversary simulation, and security assessments.
 
 - 📝 Feel free to reach out—I'm always open to connecting!
