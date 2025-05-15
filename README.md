@@ -14,7 +14,7 @@
   <img align="right" top="500" height="400" width="400" alt="PNG" src="https://imgur.com/Ei2EmF9.png">
 </a>
 
-- 👨🏽‍💻 My personal portfolio <a href="https://github.com/javicadev" target="blank">here</a>
+- 👨🏽‍💻 My personal portfolio <a href="https://github.com/javicadev" target="blank">here</a> (My personal website is under construction!!) :)
 
 - 🎓 I’m currently Studying Computer Science Engineering Degree at <a href="https://www.uma.es" target="blank">Universidad de Málaga</a>
 
