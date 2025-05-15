@@ -16,7 +16,7 @@
 
 - 🧑🏽‍💻 Check out my [Portfolio](https://github.com/javicadev) — *Coming soon :) 🚧*
 
-- 🎓 I’m currently Studying Computer Science Engineering Degree at <a href="https://www.uma.es" target="blank">Universidad de Málaga</a>
+- 🎓 I’m currently studying a Bachelor's Degree in Computer Science Engineering at [Universidad de Málaga](https://www.uma.es)
 
 - <p>🌐 I'm currently working on multiple personal projects focused on <strong>networking and security</strong>, leveraging <strong>Java</strong> and <strong>Python</strong> for automation, analysis, and threat simulation.</p>
 
