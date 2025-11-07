@@ -18,9 +18,11 @@
 
 - 🎓 I’m currently studying a Bachelor's Degree in Computer Science Engineering at [Universidad de Málaga](https://www.uma.es)
 
-- <p>🌐 I'm currently working on multiple personal projects focused on <strong>networking and security</strong>, leveraging <strong>Java</strong> and <strong>Python</strong> for automation, analysis, and threat simulation.</p>
+- <p>🌐 I'm currently working on multiple personal projects in <strong>networking, security, and automation</strong>, developing tools in <strong>Java</strong> and <strong>Python</strong> for data processing, system monitoring, and protocol analysis.</p>
 
-- 🛡️ I’m currently specializing in Offensive Security and Red Team operations, focusing on advanced attack strategies, adversary simulation, and security assessments.
+- <p>🧩 I’m currently developing my <strong>Final Degree Project (TFG)</strong> on <strong>AI-based Advanced Persistent Threat (APT) Detection</strong>, exploring <strong>deep learning models</strong> and <strong>cyber threat intelligence</strong> to detect and classify advanced attack behaviors.</p>
+
+- <p>🛡️ I’m also specializing in <strong>Offensive Security</strong> and <strong>Red Team operations</strong>, focusing on <strong>adversary emulation</strong>, <strong>vulnerability research</strong>, and <strong>security assessments</strong> of complex infrastructures.</p>
 
 - 📝 Feel free to reach out—I'm always open to connecting!
 
