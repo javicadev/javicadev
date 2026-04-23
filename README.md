@@ -14,7 +14,7 @@
   <img align="right" top="500" height="400" width="400" alt="PNG" src="https://imgur.com/Ei2EmF9.png">
 </a>
 
-- 🧑🏽‍💻 Check out my [Portfolio](https://javicadev.com) — :) *
+- 🧑🏽‍💻 Check out my [Portfolio](https://javicadev.com) :)
 
 - 🎓 I’m currently studying a Bachelor's Degree in Computer Science Engineering at [Universidad de Málaga](https://www.uma.es)
 
